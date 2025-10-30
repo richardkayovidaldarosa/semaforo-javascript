@@ -20,5 +20,21 @@ function limpar(){
 function acenderVermelho(){
     // limpar():
     luzVermelha.classList.add("acesa", "vermelha");
-
 }
+
+function acenderAmarelo(){
+    // limpar():
+    luzAmarelo.classList.add("acesa", "amarelo")
+}
+
+function acenderVerde(){
+    // limpar():
+    luzVerde.classList.add("acesa", "verde")
+}
+
+function modoAutomatico(){
+   // limpar():
+   let estado =0;
+   intervalo = setInterval
+}
+
